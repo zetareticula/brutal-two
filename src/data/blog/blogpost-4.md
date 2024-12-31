@@ -1,5 +1,5 @@
 ---
-title: Blogpost 4
+title: Innovative tools to solve everyday problems.
 author: Elian Van Cutsem
 pubDate: 2023-02-15 12:00
 tags:
