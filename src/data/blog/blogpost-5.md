@@ -1,5 +1,5 @@
 ---
-title: Blogpost 5
+title: The most accessible and soothing design for seniors on the market.
 author: Elian Van Cutsem
 pubDate: 2023-02-19 18:37
 tags:
