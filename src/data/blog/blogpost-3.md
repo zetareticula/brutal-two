@@ -7,7 +7,7 @@ tags:
   - CSS
   - Astro
   - Vite
-imgUrl: '/assets/astro.jpeg'
+imgUrl: '../../assets/astro.jpeg'
 ---
 
 # Privacy and Data Security at Klever
