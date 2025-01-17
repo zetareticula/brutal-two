@@ -1,13 +1,13 @@
 ---
 title: Privacy and Data Security
-description: 
-pubDate: 2023-02-14 23:49
+description: Klever's Data Management platform.
+pubDate: 2023-02-14
 author: Elian Van Cutsem
 tags: 
   - CSS
   - Astro
   - Vite
-imgUrl: '../../assets/astro.jpeg'
+imgUrl: '/assets/astro.jpeg'
 ---
 
 # Privacy and Data Security at Klever
@@ -17,20 +17,20 @@ At Klever, we prioritize the privacy and security of our users' data. Our compre
 ## Key Features for User Data Management and Security
 
 ### 1. **User Data Management (TA2)**
-- **Full Control:** Users can view, manage, or delete personal data stored by Klever.  
-- **Transparency:** A user-friendly interface provides clear insights into what data is stored and how it is used.
+- **Full Control**: Users can view, manage, or delete personal data stored by Klever.  
+- **Transparency**: A user-friendly interface provides clear insights into what data is stored and how it is used.
 
 ### 2. **Encryption & Security Features (TA)**
-- **Secure Protocols:** Sensitive data, especially health-related information, is protected using state-of-the-art encryption methods.  
-- **Data Integrity:** We implement robust measures to safeguard data against unauthorized access or breaches.
+- **Secure Protocols**: Sensitive data, especially health-related information, is protected using state-of-the-art encryption methods.  
+- **Data Integrity**: We implement robust measures to safeguard data against unauthorized access or breaches.
 
 ### 3. **Data Privacy**
-- **Cloud or Localized Storage:** Personal data, such as health information and reminders, is securely stored either on a cloud-based server or a localized data storage solution, based on user preferences.  
-- **Compliance:** Our systems adhere to strict data privacy regulations to ensure your information remains secure.
+- **Cloud or Localized Storage**: Personal data, such as health information and reminders, is securely stored either on a cloud-based server or a localized data storage solution, based on user preferences.  
+- **Compliance**: Our systems adhere to strict data privacy regulations to ensure your information remains secure.
 
 ### 4. **Consent Management (TA2)**
-- **Explicit Consent:** Users must explicitly agree to any data-sharing with third-party services or caregivers.  
-- **Clear Choices:** Consent settings are accessible and modifiable at any time, giving users complete control over their data-sharing preferences.
+- **Explicit Consent**: Users must explicitly agree to any data-sharing with third-party services or caregivers.  
+- **Clear Choices**: Consent settings are accessible and modifiable at any time, giving users complete control over their data-sharing preferences.
 
 ---
 
