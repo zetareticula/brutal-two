@@ -1,5 +1,5 @@
 ---
-title: Blogpost 2
+title: Enhancing Memory and Cognitive Support with Klever
 pubDate: 12/31/2022 12:05
 author: "Elian Van Cutsem"
 tags:
@@ -7,40 +7,47 @@ tags:
   - WebDev
   - Programming
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: Help with memory-related tasks such as recalling names, appointments, or previous interactions with Klever.
 ---
 
-## Deorum petiit ignis
+# Enhancing Memory and Cognitive Support with Klever
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+At Klever, we’re committed to supporting cognitive health and memory assistance, particularly for seniors. Our features are designed to provide comfort, stimulation, and validation while fostering an engaging and personalized user experience.
 
-## Iovis late orbem Perseus sunt
+---
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+## Key Features
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+### 1. **Memory Assistance (TA2)**  
+Help users recall names, appointments, or past interactions with Klever.  
+- **Custom Memory Support:** Users can instruct Klever to "remember this in case I forget," providing reassurance for those experiencing memory decline.  
+- **Seamless Recall:** While Klever automatically retains most interactions, this feature adds an extra layer of comfort, allowing users to trust Klever as their memory companion.
 
-## Longum minus sic saepe
+---
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+### 2. **Cognitive Exercises (TA2)**  
+Promote cognitive health through engaging activities.  
+- **Interactive Exercises:** Offer brain games, puzzles, and memory challenges to keep users mentally sharp.  
+- **Activities Button:** Found in the lower margin of the interface, this hub provides access to:  
+  - Physical activities  
+  - Mental stimulation  
+  - Guided cognitive exercises  
+- **Personalized Queries:** Users can request tailored exercises, such as, “Find some good cognitive exercises for me and walk me through them.” Klever can even act as a coach, guiding users step by step.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+---
 
-## Geminas namque quod referitur argenteus aderat superstes
+### 3. **Personal History (TA2)**  
+Create a rich and meaningful chronology of the user’s life.  
+- **Life Stories:** Users can share memories, family names, hobbies, and key events, allowing Klever to build a detailed personal history.  
+- **Chronology Builder:** Over time, Klever compiles these details into a cohesive narrative that the user can review.  
+- **Use Cases:**  
+  - **Validation:** Offers a sense of comfort and continuity.  
+  - **Medical Context:** Provides a comprehensive life summary for healthcare providers.  
+  - **Legacy Creation:** Captures a life story that can serve as a meaningful record for family or end-of-life planning.  
+- **Interactive Memory Support:** Klever can ask gentle, conversational questions to help users recall or articulate their life stories.
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+---
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+## Why It Matters
+
+These features are designed not only to enhance cognitive engagement but also to provide a sense of security and self-worth. Whether it’s assisting with memory tasks, offering stimulating games, or creating a cherished personal history, Klever is here to support and enrich your life journey.
