@@ -2,6 +2,7 @@
 import Layout from '@layouts/Default.astro';
 import RecentBlogPosts from '@components/generic/RecentBlogPosts.astro';
 import MobileSocials from '@components/home/MobileSocials.astro';
+import ChatbotContainer from
 import { Pill } from '@eliancodes/brutal-ui';
 import { Button } from '@eliancodes/brutal-ui';
 import { Card } from '@eliancodes/brutal-ui';
@@ -29,6 +30,7 @@ const builtWith = [
   description='Brutal is a minimalistic, neobrutalism theme for Astro.'
 >
   <main class='bg-pink p-6'>
+    <ChatbotContainer>
     <MobileSocials />
     <section id='about' class='grid md:grid-cols-8 gap-8 mt-4'>
       <h2 class='hidden'>About Klever</h2>
@@ -82,7 +84,7 @@ const builtWith = [
             The Modern-Day Encyclopedia
           </h2>
           <p class='poppins'>
-            Discover knowledge at your fingertips, easy and accessible for all <a
+            Discover knowledge at your fingertips, easy and accessible to all <a
               href='https://vercel.com/zetareticula/klever-nextjs-ai-chatbot/DRVmHNzmdx74HNGgkLnLa16VzJNb'>.</a
             > With a focus on accessibility and simplicity, we ensure you never feel left behind in the fast-paced digital age. 
     

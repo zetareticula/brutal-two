@@ -1,8 +1,12 @@
 ---
+//interface props is used to define the types of props that can be passed to the component
+// This is useful for TypeScript to ensure type safety
+//pageTitle?: string; // Optional page title for the header
 interface Props {
-  pageTitle?: string;
+  pageTitle?: string; // Optional page title for the header
 }
 
+// This component renders the navigation bar for the website
 const navigationItems = [
   { name: 'Home', url: '/' },
   { name: 'Blog', url: '/blog/' },
@@ -22,9 +26,15 @@ const socialIcons = [
   { name: 'RSS', url: '/feed.xml', icon: 'i-uil-rss' },
 ];
 
+// pageTitle is passed as a prop to the component which can be used to set the title of the page
 const { pageTitle } = Astro.props;
 ---
 
+//This header component encapsulates pageTitle, navigation items, and social icons
+//the navigation items are displayed in a horizontal list, and the social icons are displayed as clickable icons
+//the unlisted items are hidden on mobile devices
+//the header is styled with a border and flexbox layout
+// the header is responsive, with different styles for mobile and desktop views
 <header class='border-b-4 border-black flex justify-between p-6 items-center'>
   {pageTitle && <h1 class='hidden'>{pageTitle}</h1>}
   <a href='/' title='Back to Home'>
